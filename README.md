@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sarvesh Hardas</h1>
-<h3 align="center">A passionate CSE UnderGrad with keen interest in fields like Web Development, Machine Learning and Quantum Physics from India</h3>
+<h3 align="center">A passionate CSE undergrad from India with a keen interest in Web Development, Machine Learning, and Quantum Physics.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarveshhardas&label=Profile%20views&color=0e75b6&style=flat" alt="sarveshhardas" /> </p>
 
