@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 💬 Ask me about **React, Next.js, GSAP, Cricket**
+- 💬 Ask me about **React, Next.js, GSAP**
 
 - 📫 How to reach me **hardassarvesh58@gmail.com**
 
