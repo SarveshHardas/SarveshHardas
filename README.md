@@ -29,7 +29,6 @@ const sarvesh = {
   education   : "B.Tech CSE (AIML) @ Ramdeobaba University — CGPA 9.58",
   role        : "Full-Stack Developer + Technical Team Member @ GFG Campus Body RBU",
   focus       : ["Backend Systems", "AI Integration", "Real-Time Apps"],
-  currentlyBuilding : "Project Himank — ISRO Bharatiya Antariksh Hackathon 2026",
   learning    : ["Next.js", "Quantum Physics (yes, really)"],
   funFact     : "Cricket 🏏 is my version of rubber-duck debugging",
 };
