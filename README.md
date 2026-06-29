@@ -129,8 +129,8 @@ Secure platform with JWT auth, role-based access control & JOI-validated REST AP
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.shion.dev/api?username=SarveshHardas&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" />
-<img height="160" src="https://github-readme-stats.shion.dev/api/top-langs/?username=SarveshHardas&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SarveshHardas&theme=github_dark" />
+<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SarveshHardas&theme=github_dark" />
 
 <img width="70%" src="https://streak-stats.demolab.com/?user=SarveshHardas&theme=github-dark-blue&hide_border=true" />
 
